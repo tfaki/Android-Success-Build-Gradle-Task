@@ -7,7 +7,8 @@
 This app include gradle task. If you build this app, you can hear the sound.
 
 ## Gradle Task Sound
-https://user-images.githubusercontent.com/37421570/236853494-bdb79237-b017-4c01-a7fd-1d5c5e7a91c4.mp4
+https://user-images.githubusercontent.com/37421570/236877541-46513876-fc11-4e87-b81d-b75328014446.mp4
+
 
 ## How to use gradle task?
 Add the following task to root/build.gradle 👇🏻
